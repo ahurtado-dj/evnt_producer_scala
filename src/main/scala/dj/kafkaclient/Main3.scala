@@ -6,6 +6,9 @@ import java.util.Properties
 import kafka.producer.ProducerConfig
 import kafka.producer.Producer
 
+/**
+ * Kafka scala-producer simple-example 3
+ */
 object Main3 {
   
   def main(args: Array[String]): Unit = {
@@ -25,7 +28,7 @@ object Main3 {
     val testTopic = "my-topic-test"
     val producer = new Producer[AnyRef, AnyRef](config)
     try {
-      producer.send(new KeyedMessage("my-topic-test", "sss","hello world" ))
+      producer.send(new KeyedMessage("my-topic-test", "sss","hello kafka (scala Main3)" ))
     } catch {
         case e: Exception => e.printStackTrace
     }

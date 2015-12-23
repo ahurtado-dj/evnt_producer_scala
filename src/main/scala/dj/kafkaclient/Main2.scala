@@ -7,6 +7,9 @@ import com.softwaremill.react.kafka.ProducerProperties
 import java.util.concurrent.Future
 import org.apache.kafka.clients.producer.RecordMetadata
 
+/**
+ * Kafka scala-producer simple-example 2
+ */
 object Main2 {
   
   def main(args: Array[String]): Unit = {

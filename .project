@@ -1,5 +1,5 @@
 <projectDescription>
-  <name>prc06-back-akkahttp2</name>
+  <name>evnt_producer_scala</name>
   <buildSpec>
     <buildCommand>
       <name>org.scala-ide.sdt.core.scalabuilder</name>

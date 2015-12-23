@@ -5,6 +5,9 @@ import org.apache.kafka.clients.producer.ProducerConfig
 import org.apache.kafka.clients.producer.KafkaProducer
 import org.apache.kafka.clients.producer.ProducerRecord
 
+/**
+ * Kafka scala-producer simple-example 4
+ */
 object Main4 {
   def main(args: Array[String]): Unit = {
     lazy val kafkaProducerParams = new Properties()

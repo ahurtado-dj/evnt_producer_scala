@@ -1,4 +1,4 @@
-name := """prc06-back-akkahttp2"""
+name := """evnt_producer_scala"""
 
 version := "1.0"
 
@@ -40,4 +40,13 @@ libraryDependencies ++= {
 		"org.apache.kafka" % "kafka-clients" % kafkaVersion, 
 		"com.softwaremill.reactivekafka" %% "reactive-kafka-core" % "0.8.2"
 	)
+}
+
+libraryDependencies ++= {
+  Seq(
+  	"org.slf4j" % "slf4j-api" % "1.7.12",
+  	"org.slf4j" % "slf4j-simple" % "1.7.12"
+  	
+  )
+
 }

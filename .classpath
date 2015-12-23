@@ -2,36 +2,36 @@
   <classpathentry kind="src" path="src\main\scala"/>
   <classpathentry kind="src" path="src\test\scala"/>
   <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.5.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.12.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe.akka\akka-stream-experimental_2.11\jars\akka-stream-experimental_2.11-2.0-M1.jar"/>
-  <classpathentry kind="lib" path="C:\.work\activator-dist-1.3.6\repository\org.reactivestreams\reactive-streams\1.0.0\jars\reactive-streams.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe.akka\akka-http-core-experimental_2.11\jars\akka-http-core-experimental_2.11-2.0-M1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe.akka\akka-parsing-experimental_2.11\jars\akka-parsing-experimental_2.11-2.0-M1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe.akka\akka-http-experimental_2.11\jars\akka-http-experimental_2.11-2.0-M1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe.akka\akka-http-xml-experimental_2.11\jars\akka-http-xml-experimental_2.11-2.0-M1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe.akka\akka-http-spray-json-experimental_2.11\jars\akka-http-spray-json-experimental_2.11-2.0-M1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\io.spray\spray-json_2.11\bundles\spray-json_2.11-1.3.2.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe.akka\akka-http-testkit-experimental_2.11\jars\akka-http-testkit-experimental_2.11-2.0-M1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe.akka\akka-stream-testkit-experimental_2.11\jars\akka-stream-testkit-experimental_2.11-2.0-M1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.typesafe.akka\akka-testkit_2.11\jars\akka-testkit_2.11-2.3.12.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\org.apache.kafka\kafka-clients\jars\kafka-clients-0.8.2.2.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\org.xerial.snappy\snappy-java\bundles\snappy-java-1.1.1.7.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\net.jpountz.lz4\lz4\jars\lz4-1.2.0.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.softwaremill.reactivekafka\reactive-kafka-core_2.11\jars\reactive-kafka-core_2.11-0.8.2.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\org.apache.kafka\kafka_2.11\jars\kafka_2.11-0.8.2.1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.yammer.metrics\metrics-core\jars\metrics-core-2.2.0.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\net.sf.jopt-simple\jopt-simple\jars\jopt-simple-3.2.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.2.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\com.101tec\zkclient\jars\zkclient-0.3.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\org.apache.zookeeper\zookeeper\jars\zookeeper-3.4.6.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\jline\jline\jars\jline-0.9.94.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\junit\junit\jars\junit-3.8.1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\io.netty\netty\bundles\netty-3.7.0.Final.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\org.slf4j\log4j-over-slf4j\jars\log4j-over-slf4j-1.7.12.jar"/>
-  <classpathentry kind="lib" path="C:\.work\activator-dist-1.3.6\repository\org.slf4j\slf4j-api\1.7.12\jars\slf4j-api.jar"/>
-  <classpathentry kind="lib" path="C:\Users\andres\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.5.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.5.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.12.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe.akka\akka-stream-experimental_2.11\jars\akka-stream-experimental_2.11-2.0-M1.jar"/>
+  <classpathentry kind="lib" path="C:\.work\activator-dist-1.3.7\repository\org.reactivestreams\reactive-streams\1.0.0\jars\reactive-streams.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe.akka\akka-http-core-experimental_2.11\jars\akka-http-core-experimental_2.11-2.0-M1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe.akka\akka-parsing-experimental_2.11\jars\akka-parsing-experimental_2.11-2.0-M1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe.akka\akka-http-experimental_2.11\jars\akka-http-experimental_2.11-2.0-M1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe.akka\akka-http-xml-experimental_2.11\jars\akka-http-xml-experimental_2.11-2.0-M1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe.akka\akka-http-spray-json-experimental_2.11\jars\akka-http-spray-json-experimental_2.11-2.0-M1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\io.spray\spray-json_2.11\bundles\spray-json_2.11-1.3.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe.akka\akka-http-testkit-experimental_2.11\jars\akka-http-testkit-experimental_2.11-2.0-M1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe.akka\akka-stream-testkit-experimental_2.11\jars\akka-stream-testkit-experimental_2.11-2.0-M1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.typesafe.akka\akka-testkit_2.11\jars\akka-testkit_2.11-2.3.12.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\org.apache.kafka\kafka-clients\jars\kafka-clients-0.8.2.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\org.xerial.snappy\snappy-java\bundles\snappy-java-1.1.1.7.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\net.jpountz.lz4\lz4\jars\lz4-1.2.0.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.softwaremill.reactivekafka\reactive-kafka-core_2.11\jars\reactive-kafka-core_2.11-0.8.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\org.apache.kafka\kafka_2.11\jars\kafka_2.11-0.8.2.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.yammer.metrics\metrics-core\jars\metrics-core-2.2.0.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\net.sf.jopt-simple\jopt-simple\jars\jopt-simple-3.2.jar"/>
+  <classpathentry kind="lib" path="C:\.work\activator-dist-1.3.7\repository\org.scala-lang.modules\scala-parser-combinators_2.11\1.0.2\bundles\scala-parser-combinators_2.11.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\com.101tec\zkclient\jars\zkclient-0.3.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\org.apache.zookeeper\zookeeper\jars\zookeeper-3.4.6.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\jline\jline\jars\jline-0.9.94.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\junit\junit\jars\junit-3.8.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\io.netty\netty\bundles\netty-3.7.0.Final.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\org.slf4j\log4j-over-slf4j\jars\log4j-over-slf4j-1.7.12.jar"/>
+  <classpathentry kind="lib" path="C:\.work\activator-dist-1.3.7\repository\org.slf4j\slf4j-api\1.7.12\jars\slf4j-api.jar"/>
+  <classpathentry kind="lib" path="C:\Users\andres.hurtado.ANDJE\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.5.jar"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
   <classpathentry kind="output" path="bin"/>
 </classpath>
